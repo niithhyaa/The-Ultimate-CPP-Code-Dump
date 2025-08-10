@@ -1,5 +1,5 @@
 // Selection sort
-
+// Time complexity : N + N-1 + N-2 + .... + 1 -> O(N(N+1)/2) - > O(N^2) (N is the number of elements)
 #include <bits/stdc++.h>
 using namespace std;
 
